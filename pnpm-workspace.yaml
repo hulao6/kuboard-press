@@ -1,0 +1,6 @@
+allowBuilds:
+  bootstrap-vue: false
+  core-js: false
+  highlight.js: false
+  vuepress: false
+onlyBuiltDependencies: '["core-js","bootstrap-vue","highlight.js","vuepress"]'

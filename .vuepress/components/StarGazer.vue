@@ -17,8 +17,8 @@
           激励 Kuboard 继续前行。
         </div>
         <a href="https://github.com/eip-work/kuboard-press" target="_blank" @click="linkToStar">
-          <div style="border: solid 1px #ddd;">
-            <img src="./star.png" style="max-width: 100%; opacity: 0.8;">
+          <div style="border: solid 1px #ddd; padding: 20px; text-align: center; font-size: 48px;">
+            ⭐
           </div>
         </a>
       </div>
